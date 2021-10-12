@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnp0
+          user: pryborg
           template: classic
           base: ""
           config_animated: yes
@@ -41,7 +41,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnp0
+          user: pryborg
           base: ""
           template: classic
           config_animated: yes
@@ -63,7 +63,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnp0
+          user: pryborg
           base: ""
           template: classic
           config_animated: yes
@@ -85,7 +85,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnp0
+          user: pryborg
           base: ""
           template: classic
           config_animated: yes
@@ -107,7 +107,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: cnp0
+          user: pryborg
           base: ""
           template: classic
           config_animated: yes
