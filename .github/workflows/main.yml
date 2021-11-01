@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: pryborg
+          user: cnpz
           template: classic
           base: ""
           config_animated: yes
