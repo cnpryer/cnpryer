@@ -28,5 +28,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_stars: yes
           plugin_stars_limit: 3
-          repositories_affiliations: ""
+          repositories_affiliations: owner, collaborator, organization_member
           filename: github-metrics.svg
