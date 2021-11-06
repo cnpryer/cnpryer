@@ -24,7 +24,7 @@ jobs:
           config_timezone: America/New_York
           plugin_languages: yes
           plugin_languages_ignored: html, css, Jupyter Notebook, shell, TSQL, Less
-          plugin_languages_skipped: rusty-gunz/gunz-1.0 rusty-gunz/gunz-1.5 rusty=gunz/gunz-1.5-archived rusty-gunz/RefinedGunz
+          plugin_languages_recent_days: 180
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_stars: yes
