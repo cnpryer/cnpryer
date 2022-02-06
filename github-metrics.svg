@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.24355751425054" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="171.24355751425054" y="0" width="167.10363841387087" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="338.3471959281214" y="0" width="58.2144150295356" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="396.561610957657" y="0" width="29.205952639582883" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="425.76756359723987" y="0" width="25.927376555662455" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.69494015290235" y="0" width="4.590815513691899" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.2857556665943" y="0" width="2.5323960564021393" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.81815172299645" y="0" width="1.1818482770036105" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.2447731857446" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="171.2447731857446" y="0" width="167.10018103760407" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="338.3449542233487" y="0" width="58.21321057259608" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="396.5581647959448" y="0" width="29.210107070811564" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="425.7682718667563" y="0" width="25.926840117933068" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.6951119846894" y="0" width="4.5907205296643046" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.2858325143537" y="0" width="2.532343661097605" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8181761754513" y="0" width="1.1818238245486992" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thalo-rs/esdl</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Event-sourcing Schema Definition Language</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thalo-rs/thalo</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Event sourcing suite for Rust 🦀</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibraheemdev/seize</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, efficient, and robust memory reclamation for Rust.</div>
