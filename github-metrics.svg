@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.27252929575724" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="177.27252929575724" y="0" width="163.61197011118665" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="340.88449940694386" y="0" width="56.99801166664472" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="397.8825110735886" y="0" width="28.600347021399653" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="426.4828580949882" y="0" width="25.385618160989164" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.8684762559774" y="0" width="4.494889385662729" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.36336564164014" y="0" width="2.4794810682910966" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8428467099312" y="0" width="1.157153290068766" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.45669233552906" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="177.45669233552906" y="0" width="163.50539653457705" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="340.96208887010613" y="0" width="56.960884297792546" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="397.92297316789865" y="0" width="28.58171732534334" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="426.50469049324204" y="0" width="25.369082475244266" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.87377296848626" y="0" width="4.491961504298248" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.36573447278454" y="0" width="2.477865983738274" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8436004565228" y="0" width="1.1563995434772156" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>38.54%</div>
+                                <div>38.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.39%</div>
+                                <div>12.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>35.57%</div>
+                                <div>35.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.22%</div>
+                                <div>6.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thalo-rs/esdl</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Event-sourcing Schema Definition Language</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thalo-rs/thalo</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Event sourcing suite for Rust 🦀</div>
