@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.49837769325697" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="177.49837769325697" y="0" width="163.523852717832" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="341.02223041108897" y="0" width="56.967313935842704" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="397.9895443469317" y="0" width="28.584943576120857" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="426.5744879230526" y="0" width="25.371946089810496" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.94643401286305" y="0" width="4.492468548508743" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.4389025613718" y="0" width="2.404567362934062" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.84346992430585" y="0" width="1.15653007569415" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.65344390329784" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="177.65344390329784" y="0" width="163.4340938559707" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="341.08753775926857" y="0" width="56.936044361543956" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="398.02358212081253" y="0" width="28.56925319236877" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="426.59283531318124" y="0" width="25.358019332543115" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.9508546457244" y="0" width="4.490002615513893" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.4408572612383" y="0" width="2.4032474868048084" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8441047480431" y="0" width="1.1558952519569559" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>38.59%</div>
+                                <div>38.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.52%</div>
+                                <div>5.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>35.55%</div>
+                                <div>35.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pallets/click</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python composable command line interface toolkit</div>
@@ -224,7 +224,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1
+                                        8
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -259,7 +259,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        209
+                                        210
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
