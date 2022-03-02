@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.14074569947874" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="180.14074569947874" y="0" width="161.9943386812487" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="342.13508438072745" y="0" width="56.434472366596715" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="398.56955674732416" y="0" width="28.31757541112256" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="426.8871321584467" y="0" width="25.134630572625593" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.0217627310723" y="0" width="4.450448417563627" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.4722111486359" y="0" width="2.3820763350357406" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.85428748367167" y="0" width="1.1457125163283164" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.21384069028994" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="180.21384069028994" y="0" width="161.95202821798756" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="342.1658689082775" y="0" width="56.41973253871652" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="398.58560144699396" y="0" width="28.31017929009864" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="426.8957807370926" y="0" width="25.12806578849744" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.02384652559005" y="0" width="4.449286027965325" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.4731325535554" y="0" width="2.3814541728411895" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8545867263966" y="0" width="1.1454132736033882" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>39.16%</div>
+                                <div>39.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>35.22%</div>
+                                <div>35.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.16%</div>
+                                <div>6.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rui314/chibicc</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small C compiler</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cvxpy/cvxpy</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python-embedded modeling language for convex optimization problems.</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getporter/porter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Porter enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command.</div>
@@ -282,7 +282,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        792
+                                        793
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
