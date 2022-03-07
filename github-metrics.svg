@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.25575426951346" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="182.25575426951346" y="0" width="160.77008252626007" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="343.02583679577356" y="0" width="56.00797443641726" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="399.0338112321908" y="0" width="28.103568142265857" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="427.13737937445666" y="0" width="24.944678093838974" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.0820574682956" y="0" width="4.416814594850955" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.49887206314656" y="0" width="2.3640740292850526" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8629460924316" y="0" width="1.137053907568399" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.50929642507148" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="182.50929642507148" y="0" width="160.623321634182" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="343.13261805925345" y="0" width="55.956846887294866" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="399.08946494654833" y="0" width="28.077913464067496" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="427.16737841061587" y="0" width="24.921907046190515" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.08928545680635" y="0" width="4.412782652838499" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.5020681096449" y="0" width="2.361915956041421" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8639840656863" y="0" width="1.1360159343137153" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>39.62%</div>
+                                <div>39.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.18%</div>
+                                <div>12.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>34.95%</div>
+                                <div>34.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.11%</div>
+                                <div>6.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>the-mikedavis/tspm</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source tree-sitter package manager 🌲</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrefectHQ/prefect</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to automate your data</div>
