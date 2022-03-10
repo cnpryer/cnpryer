@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.36571854150748" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="184.36571854150748" y="0" width="159.5487462237067" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="343.9144647652142" y="0" width="55.5824937043258" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="399.49695846954" y="0" width="27.89007128100857" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="427.38702975054855" y="0" width="24.755178651947865" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.1422084024964" y="0" width="4.383260988846816" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.5254693913432" y="0" width="2.3461146590557203" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.87158405039895" y="0" width="1.1284159496010229" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.36544628336316" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="184.36544628336316" y="0" width="159.54890381820238" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="343.91435010156556" y="0" width="55.58254860601116" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="399.49689870757675" y="0" width="27.890098829465217" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="427.38699753704196" y="0" width="24.755203103909963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.14220064095196" y="0" width="4.383265318418946" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.5254659593709" y="0" width="2.3461169764337333" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8715829358046" y="0" width="1.1284170641954443" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>merico-dev/lake</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevLake: the open source data lake &amp; dashboard for your DevOps tools.</div>
@@ -182,7 +182,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        659
+                                        661
                                     </div>
                                 </div>
                             </section>
@@ -229,7 +229,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        8
+                                        9
                                     </div>
                                 </div>
                             </section>
