@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.27011756396863" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="186.27011756396863" y="0" width="158.4463997567304" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="344.71651732069904" y="0" width="55.19846583189873" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="399.91498315259776" y="0" width="27.69737455183948" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="427.6123577044373" y="0" width="24.584141371040126" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.1964990754774" y="0" width="4.352976374399796" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.54947544987715" y="0" width="2.3299049973269765" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.87938044720414" y="0" width="1.120619552795884" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.58819886913096" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="186.58819886913096" y="0" width="158.26228088310074" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="344.8504797522317" y="0" width="55.1343237663759" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="399.98480351860763" y="0" width="27.665189475922247" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="427.6499929945299" y="0" width="24.55557395375998" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.20556694828986" y="0" width="4.347918101644963" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.55348504993486" y="0" width="2.32719758659104" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8806826365259" y="0" width="1.1193173634741644" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>40.49%</div>
+                                <div>40.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12%</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>34.44%</div>
+                                <div>34.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.02%</div>
+                                <div>6.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>merico-dev/lake</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DevLake: the open source data lake &amp; dashboard for your DevOps tools.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cronos-so/cronos</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A decentralized task scheduler for Solana.</div>
