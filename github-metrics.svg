@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.11962988597017" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="189.11962988597017" y="0" width="156.7969818544336" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="345.91661174040377" y="0" width="54.62385297946259" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="400.54046471986635" y="0" width="27.40904647684021" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="427.94951119670657" y="0" width="24.328221874275" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.2777330709816" y="0" width="4.307662140872032" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.5853952118536" y="0" width="2.3056508203993715" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8910460322529" y="0" width="1.1089539677470397" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.8425534843394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="188.8425534843394" y="0" width="156.56726089133215" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="345.40981437567154" y="0" width="55.15422652652639" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="400.5640409021979" y="0" width="27.432426996536233" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="427.9964678987342" y="0" width="24.292578952495465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.28904685122967" y="0" width="4.301351048120033" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.5903978993497" y="0" width="2.3022728451298633" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8926707444795" y="0" width="1.1073292555204832" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>41.11%</div>
+                                <div>41.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.87%</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.29%</div>
+                                <div>5.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>34.09%</div>
+                                <div>34.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lapce/lapce</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightning-fast and Powerful Code Editor written in Rust</div>
@@ -163,20 +163,20 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.04k
+                                        8.12k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        190
+                                        193
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        154
+                                        156
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cube-js/cube.js</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊  Cube — Headless Business Intelligence for Building Data Applications</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quickwit-oss/tantivy</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</div>
