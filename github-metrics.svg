@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.2105779998694" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="190.2105779998694" y="0" width="156.27536564895283" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="346.48594364882223" y="0" width="54.44213591716391" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="400.9280795659862" y="0" width="27.317864856824276" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="428.24594442281045" y="0" width="24.247289227293727" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.4932336501042" y="0" width="4.293331849855966" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.78656549996015" y="0" width="2.1081696872362095" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8947351871963" y="0" width="1.1052648128036997" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.19909275046962" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="190.19909275046962" y="0" width="156.28201847298206" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="346.48111122345165" y="0" width="54.44445358219403" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="400.92556480564565" y="0" width="27.319027810095847" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="428.2445926157415" y="0" width="24.24832146259035" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.49291407833186" y="0" width="4.293514621985007" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.7864287003169" y="0" width="2.1082594344711283" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.894688134788" y="0" width="1.1053118652119585" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>data-apis/array-api-tests</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test suite for the PyData Array APIs standard</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/superset</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Superset is a Data Visualization and Data Exploration Platform</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/echarts</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache ECharts is a powerful, interactive charting and data visualization library for browser</div>
