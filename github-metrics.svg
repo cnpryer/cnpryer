@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/lumberyard</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch – with full source.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/s2n-tls</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of the TLS/SSL protocols</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws/s2n-quic</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of the IETF QUIC protocol</div>
