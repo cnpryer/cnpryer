@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.95388694855868" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="184.95388694855868" y="0" width="149.1867376545818" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="334.14062460314045" y="0" width="51.972648502220565" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="386.11327310536103" y="0" width="26.419040203857048" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="412.53231330921807" y="0" width="23.887535044856953" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.419848354075" y="0" width="17.469021293141942" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="453.88886964721695" y="0" width="4.098586937798756" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.9874565850157" y="0" width="2.0125434149842136" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.02030044848433" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="185.02030044848433" y="0" width="149.15071455547235" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="334.17101500395665" y="0" width="51.960099022974546" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="386.1311140269312" y="0" width="26.412660979278492" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="412.54377500620967" y="0" width="23.8817670854798" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.42554209168946" y="0" width="17.464803168291965" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="453.8903452599815" y="0" width="4.097597280100021" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.98794254008146" y="0" width="2.012057459918503" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>40.21%</div>
+                                <div>40.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>32.43%</div>
+                                <div>32.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wireservice/csvkit</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of utilities for converting to and working with CSV, the king of tabular file formats.</div>
