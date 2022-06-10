@@ -23,7 +23,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="185.02030044848433" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="185.02030044848433" y="0" width="149.15071455547235" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="334.17101500395665" y="0" width="51.960099022974546" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="334.17101500395665" y="0" width="51.960099022974546" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="386.1311140269312" y="0" width="26.412660979278492" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="412.54377500620967" y="0" width="23.8817670854798" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="436.42554209168946" y="0" width="17.464803168291965" height="8" fill="#6e4a7e"/>
@@ -46,7 +46,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/openwhisk</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache OpenWhisk is an open source serverless cloud platform</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openssl/openssl</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TLS/SSL and crypto library</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libuv/libuv</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform asynchronous I/O</div>
