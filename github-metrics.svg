@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.37025031331817" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="185.37025031331817" y="0" width="148.9608995528242" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="334.3311498661424" y="0" width="51.89397257924252" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="386.2251224453849" y="0" width="26.37904719922609" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="412.604169644611" y="0" width="23.85137421947119" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.4555438640822" y="0" width="17.442576780242003" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="453.89812064432414" y="0" width="4.09238251836796" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.9905031626921" y="0" width="2.009496837307871" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.23022631701286" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="185.23022631701286" y="0" width="148.40415865435412" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="333.63438497136696" y="0" width="51.700019018236375" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.3344039896033" y="0" width="27.4469074234516" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="412.78131141305494" y="0" width="23.762229782558165" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.5435411956131" y="0" width="17.3773852038121" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="453.9209263994252" y="0" width="4.077087251442217" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.9980136508674" y="0" width="2.001986349132557" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>40.3%</div>
+                                <div>40.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.28%</div>
+                                <div>11.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.19%</div>
+                                <div>5.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>32.38%</div>
+                                <div>32.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>5.73%</div>
+                                <div>5.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.79%</div>
+                                <div>3.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimastbk/python-calamine</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python binding for Rust's library for reading excel and odf file - calamine.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SheetJS/sheetjs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tafia/calamine</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets</div>
@@ -278,7 +278,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        95
+                                        94
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
