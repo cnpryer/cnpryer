@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/arrow-nanoarrow</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache arrow</div>
@@ -189,7 +189,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DataDog/glommio</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.</div>
@@ -242,7 +242,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>haskell/stylish-haskell</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Haskell code prettifier</div>
