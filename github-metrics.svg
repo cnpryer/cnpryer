@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.34356867307142" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="195.34356867307142" y="0" width="142.78740041936132" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="338.13096909243274" y="0" width="49.74329145613148" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.8742605485642" y="0" width="26.581736566116593" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="414.4559971146808" y="0" width="22.86288369264279" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.31888080732364" y="0" width="16.719690888968252" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.0385716962919" y="0" width="3.9227788169484215" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.96135051324035" y="0" width="2.038649486759709" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.34380262454198" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="195.34380262454198" y="0" width="142.787274197897" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="338.131076822439" y="0" width="49.743247483966776" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="387.8743243064058" y="0" width="26.581713068345053" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="414.45603737475085" y="0" width="22.862863482269535" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.31890085702037" y="0" width="16.719676109065677" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.03857696608605" y="0" width="3.9227753492833117" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.9613523153693" y="0" width="2.03864768463065" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustScan/RustScan</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 The Modern Port Scanner 🤖</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolthub/dolt</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dolt – It's Git for Data</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kevwan/tproxy</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cli tool to proxy and analyze TCP connections.</div>
@@ -269,13 +269,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.79k
+                                        1.83k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        129
+                                        131
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
