@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.01488046356093" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="195.01488046356093" y="0" width="141.49241742382932" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="336.5072978873903" y="0" width="49.29215419620313" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.79945208359345" y="0" width="29.069597647156723" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="414.8690497307502" y="0" width="22.65553314543874" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.5245828761889" y="0" width="16.568054852958245" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.0926377291471" y="0" width="3.887201925372121" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.97983965451925" y="0" width="2.0201603454807846" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.01527687394648" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="195.01527687394648" y="0" width="141.18916183259552" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="336.204438706542" y="0" width="49.1865081012666" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.39094680780863" y="0" width="29.574830459696017" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="414.9657772675046" y="0" width="22.606976358977477" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.5727536264821" y="0" width="16.53254513899967" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.10529876548173" y="0" width="3.8788706257902303" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.98416939127196" y="0" width="2.0158306087280318" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.72%</div>
+                                <div>10.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>4.93%</div>
+                                <div>4.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -73,7 +73,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>0.85%</div>
+                                <div>0.84%</div>
                             </small>
                         </div>
                     </section>
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>30.76%</div>
+                                <div>30.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.32%</div>
+                                <div>6.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.6%</div>
+                                <div>3.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/typeshed</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of library stubs for Python, with static types</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Omyyyy/pycom</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python compiler, down to native code, using C++</div>
@@ -216,7 +216,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        982
+                                        986
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nsqio/nsq</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A realtime distributed messaging platform</div>
