@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.46839955291045" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="195.46839955291045" y="0" width="140.88413133058853" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="336.35253088349896" y="0" width="49.080243675135286" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.43277455863426" y="0" width="29.63029637779851" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.0630709364328" y="0" width="22.55813537672265" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.6212063131554" y="0" width="16.496827591861155" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.11803390501655" y="0" width="3.8704905643262495" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.98852446934285" y="0" width="2.0114755306571634" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.75787224495932" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="195.75787224495932" y="0" width="140.7299640829164" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="336.48783632787575" y="0" width="49.02653595084434" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.5143722787201" y="0" width="29.59787241920834" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.1122446979284" y="0" width="22.53345037060593" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.64569506853434" y="0" width="16.478775377739247" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.1244704462736" y="0" width="3.866255148514636" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.9907255947882" y="0" width="2.0092744052117886" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>42.49%</div>
+                                <div>42.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.67%</div>
+                                <div>10.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>30.63%</div>
+                                <div>30.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>6.44%</div>
+                                <div>6.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.59%</div>
+                                <div>3.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Cassy343/flashmap</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lock-free, partially wait-free, eventually consistent, concurrent hashmap.</div>
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        169
+                                        172
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepmind/alphafold</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source code for AlphaFold.</div>
@@ -216,7 +216,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.81k
+                                        8.82k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -229,7 +229,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        492
+                                        493
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/docusaurus</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to maintain open source documentation websites.</div>
