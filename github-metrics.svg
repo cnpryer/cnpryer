@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.41293182701597" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="196.41293182701597" y="0" width="139.3696383604454" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="335.7825701874614" y="0" width="48.55263504159457" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.335205229056" y="0" width="31.21093404533534" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.5461392743913" y="0" width="22.315637253442773" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.8617765278341" y="0" width="16.31948803500993" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.181264562844" y="0" width="3.8288831050949295" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.01014766793895" y="0" width="1.9898523320611" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.69532337811043" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="196.69532337811043" y="0" width="139.22032599612922" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="335.91564937423965" y="0" width="48.50061862814092" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="384.4162680023806" y="0" width="31.17749650176668" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.59376450414726" y="0" width="22.291729603263498" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.88549410741075" y="0" width="16.302004303462635" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.1874984108734" y="0" width="3.8247810668329554" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.01227947770633" y="0" width="1.987720522293669" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>42.7%</div>
+                                <div>42.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.55%</div>
+                                <div>10.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>30.3%</div>
+                                <div>30.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.55%</div>
+                                <div>3.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>locustio/locust</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable user load testing tool written in Python</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/mio</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Metal IO library for Rust</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MaterializeInc/materialize</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.</div>
