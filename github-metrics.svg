@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.03501823025047" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="196.03501823025047" y="0" width="138.75296410687235" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="334.7879823371228" y="0" width="48.337802310983285" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="383.1257846481061" y="0" width="32.61705135093694" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.74283599904305" y="0" width="22.21689638629147" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.9597323853345" y="0" width="16.24727856226482" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2070109475994" y="0" width="3.8119412972619617" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.0189522448613" y="0" width="1.98104775513868" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.4014646664001" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="195.4014646664001" y="0" width="138.30453690392503" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="333.7060015703251" y="0" width="48.18158232947545" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="381.8875838998006" y="0" width="33.99828411582732" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.8858680156279" y="0" width="22.145094960146793" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.0309629757747" y="0" width="16.194769978191832" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.22573295396654" y="0" width="3.799621717750753" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.0253546717173" y="0" width="1.9746453282827203" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>42.62%</div>
+                                <div>42.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.51%</div>
+                                <div>10.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>4.83%</div>
+                                <div>4.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>30.16%</div>
+                                <div>30.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>7.09%</div>
+                                <div>7.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.53%</div>
+                                <div>3.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juicedata/juicefs</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JuiceFS is a distributed POSIX file system built on top of Redis and S3.</div>
