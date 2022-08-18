@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.83243719489602" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="194.83243719489602" y="0" width="137.90178106447246" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="332.7342182593685" y="0" width="48.041273023131126" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="380.7754912824996" y="0" width="35.23884124092265" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="416.0143325234223" y="0" width="22.08060635760278" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.0949388810251" y="0" width="16.14760928250302" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2425481635281" y="0" width="3.7885568613925122" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.03110502492063" y="0" width="1.9688949750794402" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.83526493953326" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="194.83526493953326" y="0" width="137.90378253315748" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="332.7390474726907" y="0" width="48.04197028101135" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="380.78101775370203" y="0" width="35.23267637378821" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="416.0136941274903" y="0" width="22.080926829476525" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.09462095696676" y="0" width="16.14784364448201" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.24246460144883" y="0" width="3.7886118474692756" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.0310764489181" y="0" width="1.9689235510819127" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>42.35%</div>
+                                <div>42.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ajeetdsouza/zoxide</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A smarter cd command. Supports all major shells.</div>
@@ -169,7 +169,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        255
+                                        256
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/realtime</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.</div>
