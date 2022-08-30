@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stebalien/tempfile</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Temporary file library for rust</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexcrichton/toml-rs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TOML encoding/decoding library for Rust</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salsa-rs/salsa</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.</div>
