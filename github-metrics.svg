@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.17971032736997" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.17971032736997" y="0" width="122.49349150388159" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="325.6732018312515" y="0" width="56.032043110397595" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="381.70524494164914" y="0" width="37.717662082976595" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.4229070246258" y="0" width="20.4473553096664" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.87026233429214" y="0" width="14.343375590845563" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.21363792513773" y="0" width="3.3652470195144923" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.5788849446522" y="0" width="2.421115055347811" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.60516769631255" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="203.60516769631255" y="0" width="122.74999230567848" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="326.355160001991" y="0" width="56.149373948205245" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.5045339501962" y="0" width="36.833404830362056" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.3379387805583" y="0" width="20.4901719766351" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.8281107571934" y="0" width="14.373410552657466" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.2015213098508" y="0" width="3.372293831129971" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.57381514098086" y="0" width="2.426184859019132" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>44.17%</div>
+                                <div>44.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.18%</div>
+                                <div>12.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.63%</div>
+                                <div>26.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.2%</div>
+                                <div>8.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/bubblewrap</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unprivileged sandboxing tool</div>
