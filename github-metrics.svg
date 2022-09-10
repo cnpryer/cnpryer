@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.96918951159432" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.96918951159432" y="0" width="122.57371008303247" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="326.54289959462676" y="0" width="56.0687373937432" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="382.61163698837" y="0" width="36.78050809001076" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.39214507838074" y="0" width="20.46074588062814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.8528909590089" y="0" width="14.352768785504303" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2056597445132" y="0" width="3.367450853620965" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.5731105981342" y="0" width="2.42688940186584" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.92841305204652" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="203.92841305204652" y="0" width="122.54920578440384" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="326.47761883645035" y="0" width="56.05752842337023" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.5351472598206" y="0" width="36.865115929719515" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.4002631895401" y="0" width="20.456655474725572" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.85691866426566" y="0" width="14.349899454615738" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.2068181188814" y="0" width="3.3667776503600173" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.5735957692414" y="0" width="2.4264042307585796" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>44.34%</div>
+                                <div>44.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.65%</div>
+                                <div>26.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8%</div>
+                                <div>8.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python-poetry/cleo</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cleo allows you to create beautiful and testable command-line interfaces.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/python-fire</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.</div>
