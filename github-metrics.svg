@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.57048241451886" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.57048241451886" y="0" width="122.33411013050042" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="325.9045925450193" y="0" width="55.95913749006914" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="381.8637300350884" y="0" width="37.607792914004236" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.4715229490926" y="0" width="20.420750405754713" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.89227335484736" y="0" width="14.324712828665103" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2169861835124" y="0" width="3.360868356736967" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.5778545402494" y="0" width="2.422145459750572" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.5757245265442" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="203.5757245265442" y="0" width="122.33726033726033" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="325.9129848638046" y="0" width="55.96057848516865" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="381.8735633489732" y="0" width="37.596915957571696" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.4704793065449" y="0" width="20.421276257341834" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.8917555638867" y="0" width="14.325081702130882" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.2168372660176" y="0" width="3.3609549019385088" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.5777921679561" y="0" width="2.4222078320438976" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>44.25%</div>
+                                <div>44.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.59%</div>
+                                <div>26.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.18%</div>
+                                <div>8.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akka/akka</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build highly concurrent, distributed, and resilient message-driven applications on the JVM</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python-poetry/cleo</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cleo allows you to create beautiful and testable command-line interfaces.</div>
@@ -216,7 +216,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        914
+                                        915
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
