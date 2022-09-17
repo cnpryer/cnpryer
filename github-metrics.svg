@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.835568152748" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="202.835568152748" y="0" width="121.89246907738897" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="324.728037230137" y="0" width="55.75711818093321" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="380.4851554110702" y="0" width="39.13268028159555" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.6178356926657" y="0" width="20.34702900699763" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.96486469966334" y="0" width="14.272998868818402" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.23786356848177" y="0" width="3.3487352121965372" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.5865987806783" y="0" width="2.4134012193216985" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.7741313229194" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="202.7741313229194" y="0" width="121.855549088709" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="324.62968041162844" y="0" width="55.74022991714096" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="380.3699103287694" y="0" width="39.26015671059386" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.63006703936327" y="0" width="20.3408660989337" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.97093313829697" y="0" width="14.268675722682676" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.2396088609797" y="0" width="3.347720914372707" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.5873297753524" y="0" width="2.412670224647688" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>44.09%</div>
+                                <div>44.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.5%</div>
+                                <div>26.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.51%</div>
+                                <div>8.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,10 +142,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>DonDebonair/slack-machine</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A wonderful, simple, yet powerful and extendable Slack bot</div>
+                                <div class="field description">A simple, yet powerful and extendable Slack bot</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -163,7 +163,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        206
+                                        289
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -176,7 +176,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        62
+                                        64
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-fuzz/arbitrary</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generating structured data from arbitrary, unstructured input.</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charliermarsh/autobot</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Copilot, for your existing codebase.</div>
@@ -269,7 +269,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2
+                                        4
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
