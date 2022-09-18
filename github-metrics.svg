@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/oqueue</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Non-interleaving multithreaded output queue</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/inventory</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Typed distributed plugin registration</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/faketty</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wrapper to exec a command in a pty, even if redirecting the output</div>
