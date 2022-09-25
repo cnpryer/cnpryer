@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.03226470800462" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="202.03226470800462" y="0" width="121.40973007263807" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="323.44199478064263" y="0" width="55.536299487685206" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="378.97829426832783" y="0" width="40.799469645949586" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.7777639142774" y="0" width="20.26644728930152" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.0442112035789" y="0" width="14.216472544256302" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.26068374783523" y="0" width="3.3354729892245527" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.5961567370598" y="0" width="2.403843262940158" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.87711258627314" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="201.87711258627314" y="0" width="121.31649260263869" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="323.1936051889118" y="0" width="55.49364998954152" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="378.6872551784533" y="0" width="41.12139768951924" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.80865286797257" y="0" width="20.250883526248924" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.05953639422154" y="0" width="14.205554902552057" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.26509129677356" y="0" width="3.332911488901799" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.59800278567536" y="0" width="2.401997214324635" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>43.92%</div>
+                                <div>43.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.07%</div>
+                                <div>12.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>4.41%</div>
+                                <div>4.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -73,7 +73,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>0.73%</div>
+                                <div>0.72%</div>
                             </small>
                         </div>
                     </section>
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.39%</div>
+                                <div>26.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.87%</div>
+                                <div>8.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turbot/steampipe</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookincubator/velox</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookincubator/cinder</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cinder is Meta's internal performance-oriented production version of CPython.</div>
