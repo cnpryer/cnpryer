@@ -6,8 +6,6 @@
 <a href="https://instagram.com/cnp.ig"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br>
 
-# About
-
 ## Activity
 
 Hi 👋 I'm building a [**package manager**](https://en.wikipedia.org/wiki/Package_manager) for Python called [**Huak**](https://github.com/cnpryer/huak) <a href="https://github.com/cnpryer/huak"><img src="https://github.com/cnpryer/huak/blob/master/docs/assets/img/logo.png" alt="Huak logo" width="35" role="img" /></a>
