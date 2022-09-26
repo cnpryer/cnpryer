@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.87711258627314" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="201.87711258627314" y="0" width="121.31649260263869" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="323.1936051889118" y="0" width="55.49364998954152" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="378.6872551784533" y="0" width="41.12139768951924" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.80865286797257" y="0" width="20.250883526248924" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.05953639422154" y="0" width="14.205554902552057" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.26509129677356" y="0" width="3.332911488901799" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.59800278567536" y="0" width="2.401997214324635" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.8044362558505" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="201.8044362558505" y="0" width="121.27281832282982" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="323.0772545786803" y="0" width="55.47367211888878" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="378.5509266975691" y="0" width="41.27219516882969" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="419.82312186639876" y="0" width="20.243593151011986" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.06671501741073" y="0" width="14.200440862685388" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.26715588009614" y="0" width="3.331711631357109" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.59886751145325" y="0" width="2.40113248854673" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>43.89%</div>
+                                <div>43.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.37%</div>
+                                <div>26.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>8.94%</div>
+                                <div>8.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>turbot/steampipe</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookincubator/velox</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookincubator/cinder</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cinder is Meta's internal performance-oriented production version of CPython.</div>
