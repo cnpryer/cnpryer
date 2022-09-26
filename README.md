@@ -12,7 +12,7 @@
 
 Hi 👋 I'm building a [**package manager**](https://en.wikipedia.org/wiki/Package_manager) for Python called [**Huak**](https://github.com/cnpryer/huak) <a href="https://github.com/cnpryer/huak"><img src="https://github.com/cnpryer/huak/blob/master/docs/assets/img/logo.png" alt="Huak logo" width="35" role="img" /></a>
 
-Check out [**this project board**](https://github.com/users/cnpryer/projects/6) to see what I'm currently working on.
+Check out [**this project board**](https://github.com/users/cnpryer/projects/6) to see what else I'm working on.
 
 ### Contact
 
