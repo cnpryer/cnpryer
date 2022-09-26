@@ -7,6 +7,6 @@
 
 <img alt="Metrics" src="https://github.com/cnpryer/cnpryer/blob/master/github-metrics.svg">
 
-Check out [**this project board**](https://github.com/users/cnpryer/projects/6) to see what else I'm working on.
+I currently maintain [**these projects**](https://github.com/users/cnpryer/projects/6).
   
 </div>
