@@ -27,6 +27,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 2
           repositories_affiliations: owner # organization_member
           filename: github-metrics.svg
