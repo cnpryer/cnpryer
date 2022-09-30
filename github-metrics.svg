@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.08174405878265" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="201.08174405878265" y="0" width="120.83852202516456" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="321.92026608394724" y="0" width="55.275012511960234" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="377.19527859590744" y="0" width="42.77172274543454" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="419.967001341342" y="0" width="20.17109778330706" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.13809912464905" y="0" width="14.149586936989843" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2876860616389" y="0" width="3.3197802682833593" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.60746632992226" y="0" width="2.39253367007775" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.52916115993344" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="200.52916115993344" y="0" width="120.50645159726038" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="321.0356127571938" y="0" width="55.123113955526115" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.15872671271995" y="0" width="43.91828735281029" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="420.07701406553025" y="0" width="20.115666576768433" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.1926806422987" y="0" width="14.110703149683548" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.30338379198224" y="0" width="3.3106573426156056" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.61404113459787" y="0" width="2.3859588654021975" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>43.71%</div>
+                                <div>43.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.02%</div>
+                                <div>11.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>4.39%</div>
+                                <div>4.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.27%</div>
+                                <div>26.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>9.3%</div>
+                                <div>9.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -108,7 +108,7 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>3.08%</div>
+                                <div>3.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BurntSushi/regex-automata</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A low level regular expression library that uses deterministic finite automata.</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielhuang/cotton</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.</div>
