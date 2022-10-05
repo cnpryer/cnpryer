@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.62360540792903" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="200.62360540792903" y="0" width="120.56320713911718" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="321.1868125470462" y="0" width="55.1490755713559" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="376.3358881184021" y="0" width="43.72232321358797" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="420.0582113319901" y="0" width="20.125140555474488" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.18335188746454" y="0" width="14.117348939951416" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.30070082741594" y="0" width="3.312216579892049" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.612917407308" y="0" width="2.3870825926919736" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.8476483603195" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="200.8476483603195" y="0" width="120.69784402206116" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="321.54549238238064" y="0" width="55.210662350675754" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.7561547330564" y="0" width="43.25745229507449" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="420.01360702813093" y="0" width="20.147614959212543" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.1612219873435" y="0" width="14.133114245983087" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.2943362333266" y="0" width="3.315915440651762" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.6102516739783" y="0" width="2.389748326021704" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>43.61%</div>
+                                <div>43.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.99%</div>
+                                <div>12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.21%</div>
+                                <div>26.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>9.5%</div>
+                                <div>9.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gimli-rs/object</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A unified interface for reading and writing object file formats</div>
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flamegraph-rs/flamegraph</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3</div>
