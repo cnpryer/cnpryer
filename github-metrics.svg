@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.8476483603195" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="200.8476483603195" y="0" width="120.69784402206116" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="321.54549238238064" y="0" width="55.210662350675754" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="376.7561547330564" y="0" width="43.25745229507449" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="420.01360702813093" y="0" width="20.147614959212543" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.1612219873435" y="0" width="14.133114245983087" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.2943362333266" y="0" width="3.315915440651762" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.6102516739783" y="0" width="2.389748326021704" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.63266535444532" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="200.63266535444532" y="0" width="120.56865164404614" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="321.20131699849145" y="0" width="55.151566044369204" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="376.35288304286064" y="0" width="43.70352456085744" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="420.05640760371807" y="0" width="20.126049385204144" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.1824569889222" y="0" width="14.117986464265107" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.3004434531873" y="0" width="3.312366156034912" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.61280960922227" y="0" width="2.3871903907777265" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>43.66%</div>
+                                <div>43.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12%</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>26.24%</div>
+                                <div>26.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,7 +97,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>9.4%</div>
+                                <div>9.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helm/helm</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Kubernetes Package Manager</div>
