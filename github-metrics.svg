@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.95716538713327" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="199.95716538713327" y="0" width="120.16261233113134" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="320.11977771826463" y="0" width="54.96583199428674" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.0856097125514" y="0" width="45.10531601499732" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="420.19092572754874" y="0" width="20.058270844492053" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.2491965720408" y="0" width="14.07044129024579" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="454.3196378622866" y="0" width="3.3012110932571566" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.62084895554375" y="0" width="2.3791510444563473" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.9567191348588" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="199.9567191348588" y="0" width="120.16234415950092" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="320.1190632943597" y="0" width="54.96570932487653" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="375.0847726192363" y="0" width="45.106070851773076" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="420.1908434710094" y="0" width="20.058226079659704" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.24906955066905" y="0" width="14.07040988868828" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="454.31947943935734" y="0" width="3.301203725814455" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.6206831651718" y="0" width="2.3793168348282268" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -142,7 +142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mergestat/mergestat-lite</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊</div>
