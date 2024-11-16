@@ -1,8 +1,6 @@
 # Hi, I'm [Chris](https://cnpryer.com) 👋
 
-I enjoy contributing to projects I depend on, like [Ruff's Python formatter](https://astral.sh/blog/the-ruff-formatter). I build and share tools like [Huak](https://github.com/cnpryer/huak) -- an experiment with Python package management. I work for a logistics firm as a Principal Software Engineer. You can read about some of that experience [here](https://cnpryer.github.io/building_a_digital_twin_for_a_logistics_firm/).
-
-*Some notable highlights* of my public projects and open source contributions:
+I work for a logistics firm in the USA as a Software Engineer. *Some* notable highlights of my public projects and open source contributions:
 
 | Date | Project | Highlights |
 | -- | -- | -- |
